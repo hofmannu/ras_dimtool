@@ -1,0 +1,9 @@
+% Pneumatic tubes (Festo Kunststoffschläuche, außenkalibriert, PAN)
+% inner_diameter[mm] outer_diameter[mm] mass_per_length[g/mm] max_pressure[bar]
+2.9	4	0.006	15
+4	6	0.016	19
+5.9	8	0.024	15
+7	10	0.042	17
+8.4	12	0.06	17
+10	14	0.077	17
+12	16	0.092	14
